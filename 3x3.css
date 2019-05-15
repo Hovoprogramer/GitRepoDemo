@@ -1,0 +1,23 @@
+body{
+	background-repeat: no-repeat;
+	background-image: url(nastol.jpg);
+}
+#table{
+
+	position: absolute;
+    left: 36%;
+    top: 21%;
+	width: 33%;
+    height: 281px;
+    text-align: center;
+    font-size: 63px;
+    border-color: deepskyblue;
+}
+td{
+	
+	cursor: pointer;
+    color: yellow;
+}
+td:hover{
+	color: cyan;
+}
